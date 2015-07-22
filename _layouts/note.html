@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% if page.title %}
+<h2>{{page.title}}</h2>
+{% endif %}
+
+{% if page.pdf %}
+These notes are also available <a href="{{page.pdf}}">as a PDF</a>.
+{% endif %}
+
+{{content}}
