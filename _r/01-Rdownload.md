@@ -1,5 +1,5 @@
 ---
-title: downloading R and RStudio
+title: Downloading R and RStudio
 author: POLI 205 Doing Research in Political Science
 ---
 
