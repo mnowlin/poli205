@@ -1,13 +1,17 @@
 ---
 title: Downloading R and RStudio
-author: POLI 205 Doing Research in Political Science
 ---
 
-# R
+### R
 
-To download R following the links
+To download R follow the link for your operating system
 
 * [Windows](http://cran.r-project.org/bin/windows/base/)
 * [Mac](http://cran.r-project.org/bin/macosx/)
 
----
+
+### RStudio
+
+Download RStudio [here](http://www.rstudio.com/products/rstudio/download/)
+
+
