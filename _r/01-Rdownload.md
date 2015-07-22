@@ -9,3 +9,5 @@ To download R following the links
 
 * [Windows](http://cran.r-project.org/bin/windows/base/)
 * [Mac](http://cran.r-project.org/bin/macosx/)
+
+---
