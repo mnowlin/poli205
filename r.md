@@ -6,6 +6,6 @@ layout: default
 
 # R Help
 
-{% for note in site.notes %}
+{% for r in site.r %}
 * [{{r.title}}]({{r.url}})
 {% endfor %}
