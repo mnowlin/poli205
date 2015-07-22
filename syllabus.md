@@ -2,45 +2,47 @@
 title: Syllabus
 category: syllabus
 layout: default
-pdf: poli307syllabus.pdf
+pdf: poli205syllabus.pdf
 ---
 
 # Course Description
 
-[Catalog course description](https://ssb.cofc.edu:9710/prod/bwckctlg.p_display_courses?term_in=201520&one_subj=POLI&sel_crse_strt=307&sel_crse_end=307&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=) 
+From the course catalog: _An introduction to the techniques and strategies researchers in politics use to study and understand the political world._ 
 
-This course is an advanced undergraduate course.  We will examine the
-central dimensions of environmental politics and policy in the United
-States.
+This is an undergraduate course in social science research methods and data analysis.  It is designed to introduce you to the use of political analysis, begin an exploration in the exciting worlds of quantitative research methods, and help you practice basic analytical methods for understanding political and social phenomena. 
 
-The course will provide an overview of the development of environmental policy issues, including a brief history on the develop of environmental politics in the U.S. In addition, the course will also provide a theoretical base for understanding policy changes in the U. S. Major portions of the course will be devoted to examining the fundamental beliefs and attitudes that
-have shaped environmental policies; the major political institutions in the U.S. that conceive, design, implement, and revise environmental policies; the role of science and risk assessment in environmental policy; and the application of economic principles to environmental issues.
+In addition and as stated in the Kellstedt and Whitten text, this course will help prepare you to 1) consume academic political science research in your other courses, 2) become a better consumer of information, and 3) start you on the road to becoming a producer of scientific research. We will cover a lot of material in this course, __therefore it is imperative that you come to class having done the readings and prepared to participate__. 
 
-The format of the course will be a mixture of lecture, discussion, and group work. Students should come to each class prepared to participate in discussion. This means you have reviewed your notes from previous classes and have read the readings in advance of class. You are encouraged to bring your internet capable device (laptop, tablet, smart--phone) to class for discussion and group work, _however these devices are not to be used in a way that is distracting to your professor or your classmates_
+As we progress, we will spend part of the semester on the tools and techniques of quality research design; the basic statistical skills that give you an understanding of the appropriate uses and mis--uses of these tools and techniques; and on finally we will learn to do data analysis in _R_, a statistical programming language. 
+
+In the first part of the course we will review the features of science, the scientific method, and core concepts in empirical research. Topics include theory development, how to formulate hypotheses, and how political scientists think about causality. The first section is intended to enhance your critical and social scientific thinking skills while also helping you distinguish between scholarly and non-scholarly research. The next section introduces students to the components of a research design. We will cover the features of experimental and non-experimental designs, review the fundamentals of statistical inference, and cover survey research. This section is intended to provide you with a working knowledge of the methods used by academic political scientists and help you design your own research. The third part of the course will focus on "doing" research and we will have several lab sessions where we will be performing data analysis using the statistical programming language _R_. Topics will include the exploring and visualizing of data and examining relationships between two variables. Finally, we will discuss and learn how to apply Ordinary Least Squares regression, the "workhorse" of empirical social science research, to test hypotheses. 
 
 # Course Goals and Learning Objectives
 
 The goals for this course are to:
 
-* Develop an understanding of the evolution of environmental
-  policy and politics in the U.S. 
+* Identify and explain current academic research projects in politics.
+* Enhance critical and social scientific thinking skills to distinguish between scholarly and non--scholarly approaches.
+* Develop research questions that are answerable with a variety of methods. 
+* Demonstrate some of the methods used by scholars of politics. 
+* Develop skills in designing a research project. 
 
-* Develop an understanding of the major policymaking institutions
-  including the Congress, the President, Executive Agencies, the
-  Courts, and their role in environmental policymaking. 
+# Required Textbook
 
-* Develop an understanding of the process of policymaking in the
-  U.S. with regard to environmental issues. 
+The following book is required and _additional readings will be
+provided on [OAKS](https://lms.cofc.edu/)_
 
-* Develop an understanding of how science is used (or not) in the
-  environmental policy making process. 
+__KW__: Kellstedt, Paul M. and Guy D. Whitten. 2013. _The Fundamentals of Political Science Research_. Cambridge University Press. 2nd Ed. 
 
-* Develop an understanding of how basic principles of economics
-  can be used in the design of policies to address environmental
-  issues. 
+# Required Software
 
-* Develop in--depth knowledge about a particular topic within the
-  broad field of environmental policy. 
+You are also required to download _R_ and _RStudio_ on your home computer and/or laptop. Both programs are open-source and available at no cost. In addition, both are available on the computers in the classroom.
+
+## R
+
+_R_, as noted on its website, is a free software environment for statistical computing and graphics. It could be used and accessed on any operating system. _R_ is a command based program, meaning that you will be creating and running _R_ code (or scripts) for all the statistical analysis you will be performing. A portion of class time will be spent in _R_ lab sessions. 
+
+
 
 # Course Requirements and Grading
 

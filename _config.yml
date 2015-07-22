@@ -28,6 +28,13 @@ defaults:
   -
     scope:
       path: ""  # All files
+      type: "r"
+    values:
+      category: r
+      layout: r
+-
+    scope:
+      path: ""  # All files
       type: "assignments"
     values:
       category: assignment
