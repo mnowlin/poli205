@@ -11,6 +11,8 @@ collections:
     output: true
   assignments:
     output: true
+  r:
+    output: true
 
 defaults:
   -
