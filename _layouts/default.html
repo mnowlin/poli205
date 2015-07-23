@@ -54,7 +54,7 @@
             <ul class="dropdown-menu">
               {% if site.r[0] %}
               {% for note in site.r %}
-              <li><a href="{{site.baseurl}}{{note.url}}">{{r.title}}</a></li>
+              <li><a href="{{site.baseurl}}{{r.url}}">{{r.title}}</a></li>
               {% endfor %}
               {% else %}
               <li class="dropdown-header">No notes posted</li>
