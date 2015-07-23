@@ -1,5 +1,5 @@
 ---
-title: Paper 1 
+title: paper 1 
 ---
 
 Due in the dropbox on [OAKS](https://lms.cofc.edu/) before class on **MM DD**.
