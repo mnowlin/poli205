@@ -3,9 +3,9 @@ title: download
 date: Fall 2015
 ---
 
-## Downloading R and RStudio
+### Downloading R and RStudio
 
-### R
+#### R
 
 To download R follow the link for your operating system
 
@@ -13,6 +13,6 @@ To download R follow the link for your operating system
 * [Mac](http://cran.r-project.org/bin/macosx/)
 
 
-### RStudio
+#### RStudio
 
 Download RStudio [here](http://www.rstudio.com/products/rstudio/download/)
