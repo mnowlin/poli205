@@ -1,5 +1,6 @@
 ---
 title: Downloading R and RStudio
+date: Fall 2015
 ---
 
 ### R
