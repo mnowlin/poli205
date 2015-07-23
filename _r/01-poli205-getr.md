@@ -1,7 +1,9 @@
 ---
-title: downloading R and RStudio
+title: download
 date: Fall 2015
 ---
+
+## Downloading R and RStudio
 
 ### R
 
