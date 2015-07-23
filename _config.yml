@@ -9,6 +9,8 @@ markdown: kramdown
 collections:
   notes:
     output: true
+  r:
+    output: true
   assignments:
     output: true
 
