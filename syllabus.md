@@ -51,15 +51,14 @@ Points will be distributed as follows:
 
 Assignment | Points Possible
 --- | ---
-Paper 1  | 50 points 
-Paper 2  | 100 points 
-Paper 3  | 250 points 
-10 Reading Quizzes (20 pts each) | 200 points 
+Research Design  | 300 points 
+10 Reading Quizzes (20 pts each) | 200 points
+Data Analysis Project | 200 points 
 4 In--class Lab Assignments (25 pts each)  | 100 points 
 4 Homework Assignments (25 pts each) | 100 points 
 Final Exam | 100 points 
 --- | ---
-Total | 1000 points
+__Total__ | __1000 points__
 
 ## Assignments
 
