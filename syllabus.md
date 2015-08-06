@@ -40,7 +40,7 @@ __KW__: Kellstedt, Paul M. and Guy D. Whitten. 2013. _The Fundamentals of Politi
 
 # Required Software
 
-You are also required to download _R_ and _RStudio_ on your home computer and/or laptop. Both programs are open-source and available at no cost. In addition, both are available on the computers in the classroom. For more information and instructions for downloading _R_ and _RStudio_ go to the [course website](http://matthewcnowlin.com/poli205/r.html).
+You are also required to download _R_ and _RStudio_ on your home computer and/or laptop. Both programs are open-source and available at no cost. In addition, both are available on the computers in the classroom. For more information and instructions for downloading _R_ and _RStudio_ go to the [R Help](http://matthewcnowlin.com/poli205/r.html) section of the course website.
 
 
 # Course Requirements and Grading
@@ -101,6 +101,8 @@ plagiarism it is necessary when using a phrase, a distinctive idea,
 concept or sentence from another source to reference that source in
 your text, a footnote, or end-note.  Please contact me if you need
 assistance in citing a source. 
+
+For more information on plagiarism see the [library website](http://libguides.library.cofc.edu/c.php?g=230844&p=1531392) 
 
 ## Religious Holiday Policy:
 It is the policy of the College to excuse absences of students that
