@@ -4,12 +4,15 @@ category: schedule
 layout: default
 ---
 
-# Course Schedule and Readings Fall 2015
+# Course Schedule and Readings: Fall 2015
 __SUBJECT TO CHANGE__. All changes will be announced in class.
 
-__READINGS SHOULD BE DONE PRIOR TO CLASS__. 
+__READINGS SHOULD BE DONE PRIOR TO CLASS__. Readings on the OAKS course page are under Content -> Readings. 
 
 __ALL ASSIGNMENTS AND QUIZZES ARE DUE BY 11:59pm ON THE DUE DATE, UNLESS OTHERWISE NOTED__. 
+
+__FOR READING QUIZ INSTRUCTIONS SEE THE [COURSE WEBSITE](http://matthewcnowlin.com/poli205/assignments/01-reading-quiz.html)__
+
 
 __KW__: Kellstedt, Paul M. and Guy D. Whitten. 2013. _The Fundamentals of Political Science Research_. Cambridge University Press. 2nd Ed.
 
@@ -17,13 +20,14 @@ __KW__: Kellstedt, Paul M. and Guy D. Whitten. 2013. _The Fundamentals of Politi
 
 * August 25th:  __Course Introduction and Political Science Research__
     * _Readings_: 
-        * Johnson and Reynolds Chap 1 on [OAKS](https://lms.cofc.edu/)
+        * Johnson and Reynolds Chap 1: "Introduction" on [OAKS](https://lms.cofc.edu/)
+        * [‘We Need to Take a Look at the Data’: How 2 Persistent Grad Students Upended a Blockbuster Study](http://chronicle.com/article/We-Need-to-Take-a-Look-at/230313/)
 
 ---
 
 * September 1st: __Political Science?__ 
     * _Readings_:
-        * Rosenberg Chap 2 on [OAKS](https://lms.cofc.edu/)
+        * Rosenberg Chap 2: "The Methodological Divide: Naturalism Versus Interpretation" on [OAKS](https://lms.cofc.edu/)
         * KW Chap 1
         * __Quiz 1 due September 2nd__ on [OAKS](https://lms.cofc.edu/)
 
@@ -37,9 +41,9 @@ __KW__: Kellstedt, Paul M. and Guy D. Whitten. 2013. _The Fundamentals of Politi
 ---
 
 * September 15th: __Research Question and Literature Review__
-    * Library visit 
+    * __September 15th class will meet at the [Addlestone Library](http://cofc.edu/library/) Room 122__ 
     * _Readings_:
-        * Johnson and Reynolds Chap 3 on [OAKS](https://lms.cofc.edu/)
+        * Johnson and Reynolds Chap 3: "Beginning the Research Process" on [OAKS](https://lms.cofc.edu/)
         * __Homework 1 due September 17th__. _Due before class in the dropbox on [OAKS](https://lms.cofc.edu/)_.
 
 ---
@@ -48,21 +52,21 @@ __KW__: Kellstedt, Paul M. and Guy D. Whitten. 2013. _The Fundamentals of Politi
     * _Readings_:
         * KW Chap 3
         * KW Chap 4
-        * __Quiz 3 due September 22nd__ on [OAKS](https://lms.cofc.edu/)
-        * __Quiz 4 due September 24th__ on [OAKS](https://lms.cofc.edu/)
+        * __Quiz 3 due September 21st__ on [OAKS](https://lms.cofc.edu/)
+        * __Quiz 4 due September 23rd__ on [OAKS](https://lms.cofc.edu/)
 
 ---
 
 * September 29th: __Research Design and Data__
     * _Readings_:
-        * Silverman Chap 2 on [OAKS](https://lms.cofc.edu/)
+        * Silverman Chap 2: "What You Can (and Can't) Do with Qualitative Research" on [OAKS](https://lms.cofc.edu/)
         * [A Tale of Two Cultures: Contrasting Quantitative and
 Qualitative Research](http://public.wsu.edu/~tnridout/mahoney_goertz20061.pdf)
         * __Homework 2 due October 1st__. _Due before class in the dropbox on [OAKS](https://lms.cofc.edu/)_.
 
 ---
 
-* October 6th: __Quantitative Data and Analysis__ 
+* October 6th: __Quantitative Data and Measurement__ 
     * Introduction to _R_
     * _Readings_:
         * KW Chap 5
@@ -73,7 +77,7 @@ Qualitative Research](http://public.wsu.edu/~tnridout/mahoney_goertz20061.pdf)
 * October 13th: __Probability and Statistical Inference__
     * _Readings_:
         * KW Chap 6
-        * __Quiz 6 due October 13th__ on [OAKS](https://lms.cofc.edu/)
+        * __Quiz 6 due October 12th__ on [OAKS](https://lms.cofc.edu/)
         * __R Lab 1 October 15th__ 
         
 ---
@@ -85,7 +89,7 @@ Qualitative Research](http://public.wsu.edu/~tnridout/mahoney_goertz20061.pdf)
         
 ---
 
-* October 27th: __Hypothesis Testing with Data__
+* October 27th: __Association of Variables__
     * _Readings_:
         * KW Chap 7
         * __Quiz 7 due October 26th__ on [OAKS](https://lms.cofc.edu/)
@@ -124,8 +128,8 @@ Qualitative Research](http://public.wsu.edu/~tnridout/mahoney_goertz20061.pdf)
 
 ---
 
-* December 1st: __Putting It All Together__
-    * __Homework 4 due December 4th__ 
+* December 1st: __Regression Diagnostics__
+    * __Homework 4 due December 3rd__ _Due before class in the dropbox on [OAKS](https://lms.cofc.edu/)_. 
     * Review for final
     * __Data Analysis Project due December 7th__ 
     

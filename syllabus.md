@@ -21,6 +21,10 @@ As we progress, we will spend part of the semester on the tools and techniques o
 
 In the first part of the course we will review the features of science, the scientific method, and core concepts in empirical research. Topics include theory development, how to formulate hypotheses, and how political scientists think about causality. The first section is intended to enhance your critical and social scientific thinking skills while also helping you distinguish between scholarly and non-scholarly research. The next section introduces students to the components of a research design. We will cover the features of experimental and non-experimental designs, review the fundamentals of statistical inference, and cover survey research. This section is intended to provide you with a working knowledge of the methods used by academic political scientists and help you design your own research. The third part of the course will focus on "doing" research and we will have several lab sessions where we will be performing data analysis using the statistical programming language _R_. Topics will include the exploring and visualizing of data and examining relationships between two variables. Finally, we will discuss and learn how to apply Ordinary Least Squares regression, the "workhorse" of empirical social science research, to test hypotheses. 
 
+__NOTE__: This classroom is equipped with computer at each workshop, however we will only use the computer on certain days and for specific purposes. Therefore, __the computers must remain off unless we are using them for class__. In addition, __all phones and laptops must remain put away__ unless you are asked to use them for class purposes. _Notes should be taken by hand, with pen and paper_. [You learn better that way](http://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/).
+
+I recommend taking notes using the [Cornell Method](http://www.usu.edu/arc/idea_sheets/pdf/note_taking_cornell.pdf)
+
 # Course Goals and Learning Objectives
 
 The goals for this course are to:
@@ -45,8 +49,8 @@ You are also required to download _R_ and _RStudio_ on your home computer and/or
 
 # Course Requirements and Grading
 
-Performance in this course will be evaluated on the basis of three
-papers, ten reading questions, four in--class lab assignments, four homework assignments, a final exam, and a group presentation. 
+Performance in this course will be evaluated on the basis of a research design, ten reading quizzes, four in--class lab assignments, four homework assignments, and a comprehensive final exam. 
+
 Points will be distributed as follows:
 
 Assignment | Points Possible
@@ -60,8 +64,10 @@ Final Exam | 100 points
 --- | ---
 __Total__ | __1000 points__
 
-## Assignments
 
+Specific requirements for each assignment will be available on the [course website](http://matthewcnowlin.com/poli205) and discussed in class. _You must be present during the in--class lab assignments to receive credit, no make-ups will be allowed_. The research design will be broken up into smaller assignments that are due throughout the semester. 
+
+__NO LATE WORK WILL BE ACCEPTED__ 
 
 ## Grades 
 
