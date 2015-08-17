@@ -55,7 +55,9 @@ Points will be distributed as follows:
 
 Assignment | Points Possible
 --- | ---
-Research Design  | 300 points 
+Research Design  | 300 points (total)
+* Intro and Lit Review | 200 points
+* Hypotheses, Data, and Variables | 100 points 
 10 Reading Quizzes (20 pts each) | 200 points
 Data Analysis Project | 200 points 
 4 In--class Lab Assignments (25 pts each)  | 100 points 
@@ -65,7 +67,7 @@ Final Exam | 100 points
 __Total__ | __1000 points__
 
 
-Specific requirements for each assignment will be available on the [course website](http://matthewcnowlin.com/poli205) and discussed in class. _You must be present during the in--class lab assignments to receive credit, no make-ups will be allowed_. The research design will be broken up into smaller assignments that are due throughout the semester. 
+Specific requirements for each assignment will be available on the [course website](http://matthewcnowlin.com/poli205) and discussed in class. _You must be present during the in--class lab assignments to receive credit, no make-ups will be allowed_.
 
 __NO LATE WORK WILL BE ACCEPTED__ 
 
