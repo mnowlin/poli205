@@ -46,6 +46,7 @@ __KW__: Kellstedt, Paul M. and Guy D. Whitten. 2013. _The Fundamentals of Politi
 
 You are also required to download _R_ and _RStudio_ on your home computer and/or laptop. Both programs are open-source and available at no cost. In addition, both are available on the computers in the classroom. For more information and instructions for downloading _R_ and _RStudio_ go to the [R Help](http://matthewcnowlin.com/poli205/r.html) section of the course website.
 
+While not required, I strongly recommend the use of citation manager software such as [Zotero](https://www.zotero.org) or [Mendeley](https://www.mendeley.com). 
 
 # Course Requirements and Grading
 
@@ -70,6 +71,22 @@ __Total__ | __1000 points__
 Specific requirements for each assignment will be available on the [course website](http://matthewcnowlin.com/poli205) and discussed in class. _You must be present during the in--class lab assignments to receive credit, no make-ups will be allowed_.
 
 __NO LATE WORK WILL BE ACCEPTED__ 
+
+## Attendance
+
+Attendance is expected and mandatory for this course and will be taken
+each class period. You are allowed to miss two classes without penalty. The penalties for missing 2 or more classes are as follows:
+
+Absences | Penalty
+--- | ---
+2 | None
+3 | 40 points
+4 | 60 points (100 points total)
+5 | 80 points (180 points total)
+6 | 120 points (300 points total)
+More than 6 | Grade of WA
+--- | ---
+
 
 ## Grades 
 
