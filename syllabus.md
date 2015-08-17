@@ -84,8 +84,8 @@ Absences | Penalty
 4 | 60 points (100 points total)
 5 | 80 points (180 points total)
 6 | 120 points (300 points total)
-More than 6 | Grade of WA
 --- | ---
+More than 6 | Grade of WA
 
 
 ## Grades 
