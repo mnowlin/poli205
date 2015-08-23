@@ -7,5 +7,5 @@ layout: default
 # Assignments
 
 {% for assignment in site.assignments %}
-* [{{assignment.title}}]({{site.baseurl}}{{assignment.url}})  
+* [{{assignment.title}}]({{site.baseurl}}{{assignment.url}})
 {% endfor %}
