@@ -11,6 +11,8 @@ layout: default
 
 # Course Description
 
+__See the [course website](http://matthewcnowlin.com/poli205/) for updates__
+
 From the course catalog: _An introduction to the techniques and strategies researchers in politics use to study and understand the political world._ 
 
 This is an undergraduate course in social science research methods and data analysis.  It is designed to introduce you to the use of political analysis, begin an exploration in the exciting worlds of quantitative research methods, and help you practice basic analytical methods for understanding political and social phenomena. 
@@ -87,7 +89,6 @@ Absences | Penalty
 --- | ---
 7+ | Grade of WA
 
-
 ## Grades 
 
 * A: 94 to 100% 
@@ -103,12 +104,6 @@ Absences | Penalty
 * D-: 60 to 62% 
 * F: 59%  and below 
 
-
-## Students with Disabilities:
-The College will make reasonable accommodations for persons with
-documented disabilities. Students should apply at the [Center for
-Disability Services](http://disabilityservices.cofc.edu/) located on the first floor of the Lightsey Center, Suite 104. Students approved for accommodations are responsible for notifying me as soon as possible and for contacting me at least one week before any accommodation is needed. 
- 
 ## Cheating or Plagiarism:
 A grade of zero will be given to anyone cheating on any exam, homework
 assignment or committing plagiarism in a paper. As commonly defined,
@@ -128,6 +123,15 @@ your text, a footnote, or end-note.  Please contact me if you need
 assistance in citing a source. 
 
 For more information on plagiarism see the [library website](http://libguides.library.cofc.edu/c.php?g=230844&p=1531392) 
+
+## Center for Student Learning
+I encourage you to utilize the Center for Student Learning’s (CSL) academic support services for assistance in study strategies, speaking & writing skills, and course content. They offer tutoring, Supplemental Instruction, study skills appointments, and workshops. Students of all abilities have become more successful using these programs throughout their academic career and the services are available to you at no additional cost. For more information regarding these services please visit the CSL [website](http://csl.cofc.edu) or call (843)953-5635.
+
+## Students with Disabilities:
+The College will make reasonable accommodations for persons with
+documented disabilities. Students should apply at the [Center for
+Disability Services](http://disabilityservices.cofc.edu/) located on the first floor of the Lightsey Center, Suite 104. Students approved for accommodations are responsible for notifying me as soon as possible and for contacting me at least one week before any accommodation is needed. 
+ 
 
 ## Religious Holiday Policy:
 It is the policy of the College to excuse absences of students that
