@@ -9,6 +9,8 @@ category: syllabus
 layout: default
 ---
 
+__For a syllabus [pdf]({{ site.url }}/nowlin205.pdf)__
+
 __See the [course website](http://matthewcnowlin.com/poli205/) for updates__
 
 # Course Description
