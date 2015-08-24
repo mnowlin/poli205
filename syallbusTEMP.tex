@@ -1,50 +1,61 @@
-\documentclass[nohyper]{tufte-handout}
-\usepackage[utf8]{inputenc}
-\usepackage{titlesec}
-\usepackage{paralist}
+\documentclass[11pt]{article}
+\usepackage{fullpage}
+\usepackage{setspace}
 \usepackage{graphicx}
-\usepackage[footnotesize]{caption}
-\usepackage{hyperref}
-
-% Sectioning commands
-\titleclass{\subsubsection}{straight}
-\titleformat*{\subsubsection}{\normalfont\scshape}
-
-% Metadata
-\title{PSCI 221: Causes of War}
-\author{Vanderbilt University}
-\date{Spring 2015}
-
-% Hyperref
-\hypersetup{%
-  pdfborder = {0 0 0},
-  bookmarksdepth = section,
-  citecolor = DarkGreen,
-  linkcolor = DarkBlue,
-  pagecolor = DarkBlue,
-  urlcolor = DarkGreen,
-  pdfauthor = {Brenton Kenkel (Vanderbilt University)},
-  colorlinks = true
-}%
+\usepackage{natbib}
+\usepackage{rotating}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage[colorlinks]{hyperref}
+\usepackage{enumerate}
+\usepackage{longtable}
+\usepackage{booktabs}
 
 \begin{document}
+\begin{center}
+\bigskip
 
-\maketitle
+% course title
+{\Large{\textbf{Doing Research in Political Science}}}
 
-\section{Course Information}
-% Can't get Pandoc's and Kramdown's definition lists to play totally nice...
+% course number
+\textsc{POLI: 205}
 
-\begin{compactdesc}
-  \item[Time] TR 2:35--3:50 p.m.
-  \item[Place] Commons 320
-  \item[Instructor] Professor Brenton Kenkel
-  \begin{compactdesc}
-    \item[Email] \href{mailto:brenton.kenkel@vanderbilt.edu}{brenton.kenkel@vanderbilt.edu}
-    \item[Office Hours] Thursdays, 12:30--2:30 p.m., Commons 324
-  \end{compactdesc}
-  \item[Course Website] \url{http://bkenkel.com/psci221}
-\end{compactdesc}
+% semester 
+\textsc{FALL 2015}
 
-\input{syllabus-body}
+% meeting time and location 
+\textsc{Education Center 109} \\
+\textsc{205--01: 12:15--1:30pm T R} \\
+\textsc{205--02: 1:40--2:55pm T R}
+\end{center}
+
+\setlength{\unitlength}{1in}
+\begin{picture}(6,.1) 
+\put(0,0) {\line(1,0){6.25}}
+\vspace{-1in}         
+\end{picture}
+
+\vspace{0.25in}
+
+\noindent\textbf{Instructor: }Dr. Matthew Nowlin \medskip
+
+\noindent\textbf{Office:} 114 Wentworth, \#102 \medskip
+
+\noindent\textbf{Office Hours:} Wednesdays 1--3pm and by
+appointment \medskip
+
+\noindent\textbf{Contact:}  Please allow 24 hours for a response \medskip
+
+E-mail: \href{mailto:nowlinmc@cofc.edu}{\underline{nowlinmc@cofc.edu}}
+
+Office Phone: (843)953-0279
+
+\input{syllabus.tex}
+
+\newpage
+\input{schedule.tex}
 
 \end{document}
+

@@ -9,9 +9,9 @@ category: syllabus
 layout: default
 ---
 
-# Course Description
-
 __See the [course website](http://matthewcnowlin.com/poli205/) for updates__
+
+# Course Description
 
 From the course catalog: _An introduction to the techniques and strategies researchers in politics use to study and understand the political world._ 
 
@@ -59,8 +59,6 @@ Points will be distributed as follows:
 Assignment | Points Possible
 --- | ---
 Research Design  | 300 points (total)
-* Intro and Lit Review | 200 points
-* Hypotheses, Data, and Variables | 100 points 
 10 Reading Quizzes (20 pts each) | 200 points
 Data Analysis Project | 200 points 
 4 In--class Lab Assignments (25 pts each)  | 100 points 
