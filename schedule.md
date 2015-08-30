@@ -29,7 +29,6 @@ __KW__: Kellstedt, Paul M. and Guy D. Whitten. 2013. _The Fundamentals of Politi
     * _Readings_:
         * Rosenberg Chap 2: "The Methodological Divide: Naturalism Versus Interpretation" on [OAKS](https://lms.cofc.edu/)
         * KW Chap 1
-        * __Quiz 1 due September 2nd__ on [OAKS](https://lms.cofc.edu/)
 
 ---
 
