@@ -59,8 +59,7 @@ __KW__: Kellstedt, Paul M. and Guy D. Whitten. 2013. _The Fundamentals of Politi
 * September 29th: __Research Design and Data__
     * _Readings_:
         * Silverman Chap 2: "What You Can (and Can't) Do with Qualitative Research" on [OAKS](https://lms.cofc.edu/)
-        * [A Tale of Two Cultures: Contrasting Quantitative and
-Qualitative Research](http://public.wsu.edu/~tnridout/mahoney_goertz20061.pdf)
+        * Flick Chap 12: "How to Design Qualitative Research: An Overview" on [OAKS](https://lms.cofc.edu/)
         * __Homework 2 due October 1st__. _Due before class in the dropbox on [OAKS](https://lms.cofc.edu/)_.
 
 ---
