@@ -14,7 +14,7 @@ __USE CHAPTER 12 of KELLSTEDT AND WHITTEN AS A GUIDE__
 
 ### Part I. Introduction and Literature Review
 
-A draft of the introduction and literature is due before class on _October 27th__. _Should be 5-6 pages, not including the reference page_ 
+A draft of the introduction and literature is due before class on _October 27th_. _Should be 5-6 pages, not including the reference page_ 
 
 Follow guideline available on [OAKS](https://lms.cofc.edu/) under Handouts
 
