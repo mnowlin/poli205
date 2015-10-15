@@ -76,15 +76,14 @@ __KW__: Kellstedt, Paul M. and Guy D. Whitten. 2013. _The Fundamentals of Politi
     * _Readings_:
         * KW Chap 6
         * __Quiz 6 due October 12th__ on [OAKS](https://lms.cofc.edu/)
-        * __R Lab 1 October 15th__ 
         
 ---
 
 * October 20th: 
     * __FALL BREAK: No class October 20th__
-        * __Introduction and Literature Review due October 22nd__. _Due before class in the dropbox on [OAKS](https://lms.cofc.edu/)_.
-    * Data Sources 
-        
+    * __R Lab 1 October 22nd__ 
+    * __Introduction and Literature Review due October 27th__. _Due before class in the dropbox on [OAKS](https://lms.cofc.edu/)_. 
+
 ---
 
 * October 27th: __Association of Variables__
