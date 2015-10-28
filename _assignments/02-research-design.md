@@ -30,4 +30,22 @@ Follow guideline available on [OAKS](https://lms.cofc.edu/) under Handouts
     * _List each source you cited on a separate page_
     * _Citation style not important as long as you are consistent_
 
+### Part II. Theory and Hypotheses 
 
+A draft of the theory and hypotheses section is due before class on _November 3rd_ in [OAKS](https://lms.cofc.edu/) in the dropbox labeled homework 3. _Should be 1 and 1/5 to 2 pages (double spaced)_.
+
+The theory section should explain the theory that you plan on developing and testing. It could be original or another theory that you are applying in a different context. 
+
+Look again at KW Chapter's 2 and 3, as well your notes, and the lecture slides. 
+
+* Theory
+    * _Four to five paragraphs_  
+    * _Identify your dependent variable conceptually_
+    * _Identify your independent variable conceptually_ 
+    * _Discuss the causal link between the IV and the DV. Specifically address what it is about a change in the IV that causes a change in the DV_
+
+* Hypotheses
+    * _One paragraph that leads from the theory to the hypothesis_ 
+    * _Clearly state at least one directional hypothesis drawn for the theory in the following form_:
+        * H1: As IV changes (specify direction) the DV changes (specify direction)
+    
