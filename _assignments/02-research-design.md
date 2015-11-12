@@ -67,7 +67,7 @@ Look at the lecture slides and your notes to determine the specific research des
     * _Identify how you would collect your data, including potential data sources_. 
         * For a list of possible quantitative data sources see Dr. Ragusa's [webpage](http://jordanragusa.com/data.html). 
         * If you are planning to create a public opinion survey search for questions related to your topic using the _iPoll_ database. Go to the CofC [library webpage](http://libguides.library.cofc.edu/az.php?a=i) and scroll down to iPoll.  
-    * _If using an observational design identify your control (Z) variables, including-in a sentence or two-why you need to control for them and how they will be measured__.
+    * _If using an observational design identify your control (Z) variables, including-in a sentence or two-why you need to control for them and how they will be measured_.
      
 * Analysis
     * _About 1 to 1 and 1/2 pages_ 
@@ -80,7 +80,7 @@ Look at the lecture slides and your notes to determine the specific research des
     * _About 1 to 1 and 1/2 pages (double spaced)_
     * _In 2 to 3 paragraphs, identify what you expect to find if you actually do the analysis that you proposed_
     * _In 1 to 2 paragraphs, relate these expected findings back to your research question, theory, and hypothesis_ 
-    * _In the final paragraph suggest a direction for future research__ 
+    * _In the final paragraph suggest a direction for future research_ 
 
 * __References__ 
     * _List each source you cited on a separate page_
