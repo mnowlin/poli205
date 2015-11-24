@@ -105,7 +105,7 @@ To download RStudio go [here](http://www.rstudio.com/products/rstudio/download/)
 #### H3: As respondents become more liberal, they are more likely to view the environment as a priority 
 
 ##### OLS regression with multiple independent variables 
-`r ols2 <- lm(environment ~ ideology+teaparty+age)`
+`ols2 <- lm(environment ~ ideology+teaparty+age)`
 
 `summary(ols2)`
 
