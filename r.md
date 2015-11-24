@@ -45,52 +45,49 @@ To download RStudio go [here](http://www.rstudio.com/products/rstudio/download/)
 
 
 ##### set your working directory 
-###### RStudio: Session -> Set Working Directory -> Choose Directory 
+##### RStudio: Session -> Set Working Directory -> Choose Directory 
 
-###### load data:
-######  dataset_name <- read.csv("datasetName.csv")
-`r Rlab4data <- read.csv("Rlab4data.csv")`
+##### load data:
+`Rlab4data <- read.csv("Rlab4data.csv")`
 
 ##### attach data
-###### attach(dataset_name)
-`r attach(Rlab4data)`
+`attach(Rlab4data)`
 
 ##### variable labels 
-###### names(dataset_name)
-`r names(Rlab4data)`
+`names(Rlab4data)`
 
 ### Descriptive Statistics 
 
 ##### what is the average age of the respondents? 
-`r mean(age)`
+`mean(age)`
 
 ##### what is the standard deviation of age
-`r sd(age)`
+`sd(age)`
 
 ### Bivariate hypothesis testing 
 
 #### H1: Tea party supporters are less supportive of Obama than non tea party supporters 
 
 ###### create table 
-`r approve <- table(obama,teaparty)` 
+`approve <- table(obama,teaparty)` 
 
 ###### view table
 `approve`
 
 ##### Chi-square test
-`r chisq.test(approve)`
+`chisq.test(approve)`
 
 #### H2: Tea party supporters view the environment as less of a priority than non tea party supporters 
 
 ##### t-test
-`r t.test(environment ~ teaparty)`
+`t.test(environment ~ teaparty)`
 
 #### H3: As respondents become more liberal, they are more likely to view the environment as a priority 
 
 ##### Pearson's R, correlation coefficient 
-`r cor(environment,ideology)`
+`cor(environment,ideology)`
 
-##### t.test of Pearson's R 
+##### t-test of Pearson's R 
 `r cor.test(environment,ideology)`
 
 ### Simple regression 
@@ -98,14 +95,14 @@ To download RStudio go [here](http://www.rstudio.com/products/rstudio/download/)
 #### H3: As respondents become more liberal, they are more likely to view the environment as a priority 
 
 ##### OLS regression with one independent variable 
-`r ols1 <- lm(environment ~ ideology)
-summary(ols1)`
+`ols1 <- lm(environment ~ ideology)`
+`summary(ols1)`
 
 ### Multiple regression 
 
 #### H3: As respondents become more liberal, they are more likely to view the environment as a priority 
 
 ##### OLS regression with multiple independent variables 
-`r ols2 <- lm(environment ~ ideology+teaparty+age)
-summary(ols2)`
+`r ols2 <- lm(environment ~ ideology+teaparty+age)`
+`summary(ols2)`
 
