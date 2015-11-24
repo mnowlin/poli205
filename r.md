@@ -43,80 +43,69 @@ To download RStudio go [here](http://www.rstudio.com/products/rstudio/download/)
 
 * From R lab 4
 
-```r
-## set your working directory 
-# RStudio: Session -> Set Working Directory -> Choose Directory 
 
-## load data:
-# dataset_name <- read.csv("datasetName.csv")
-Rlab4data <- read.csv("Rlab4data.csv")
+##### set your working directory 
+###### RStudio: Session -> Set Working Directory -> Choose Directory 
 
-## attach data
-# attach(dataset_name)
-attach(Rlab4data)
+###### load data:
+######  dataset_name <- read.csv("datasetName.csv")
+`r Rlab4data <- read.csv("Rlab4data.csv")`
 
-## variable labels 
-# names(dataset_name)
-names(Rlab4data)
+##### attach data
+###### attach(dataset_name)
+`r attach(Rlab4data)`
 
-
-### ideology - 1=very conservative to 5=very liberal 
-### terror - war on terror is going 1=not well at all to 4=very well
-### obama - approve=1, disapprove=0 
-### gender - male=1, female=0
-### teaparty - agree w/ teaparty=1, disagree/no opinion=0 
-### age - respondents age 
-### environment - question about protecting the environment - 1=should not be done to 4=should be a top priority 
+##### variable labels 
+###### names(dataset_name)
+`r names(Rlab4data)`
 
 ### Descriptive Statistics 
 
-# what is the average age of the respondents? 
-mean(age)
+##### what is the average age of the respondents? 
+`r mean(age)`
 
-# what is the standard deviation of age
-sd(age)
+##### what is the standard deviation of age
+`r sd(age)`
 
 ### Bivariate hypothesis testing 
 
-# H1: Tea party supporters are less supportive of Obama than non tea party supporters 
+#### H1: Tea party supporters are less supportive of Obama than non tea party supporters 
 
-# create table 
-approve <- table(obama,teaparty) 
+###### create table 
+`r approve <- table(obama,teaparty)` 
 
-# view table
-approve
+###### view table
+`approve`
 
-# Chi-square test
-chisq.test(approve)
+##### Chi-square test
+`r chisq.test(approve)`
 
-# H2: Tea party supporters view the environment as less of a priority than non tea party supporters 
+#### H2: Tea party supporters view the environment as less of a priority than non tea party supporters 
 
-# t-test
-t.test(environment ~ teaparty)
+##### t-test
+`r t.test(environment ~ teaparty)`
 
-# H3: As respondents become more liberal, they are more likely to view the environment as a priority 
+#### H3: As respondents become more liberal, they are more likely to view the environment as a priority 
 
-# Pearson's R, correlation coefficient 
-cor(environment,ideology)
+##### Pearson's R, correlation coefficient 
+`r cor(environment,ideology)`
 
-# t.test of Pearson's R 
-cor.test(environment,ideology)
+##### t.test of Pearson's R 
+`r cor.test(environment,ideology)`
 
 ### Simple regression 
 
-# H3: As respondents become more liberal, they are more likely to view the environment as a priority 
+#### H3: As respondents become more liberal, they are more likely to view the environment as a priority 
 
-# OLS regression with one independent variable 
-ols1 <- lm(environment ~ ideology)
-summary(ols1)
+##### OLS regression with one independent variable 
+`r ols1 <- lm(environment ~ ideology)
+summary(ols1)`
 
 ### Multiple regression 
 
-# H3: As respondents become more liberal, they are more likely to view the environment as a priority 
+#### H3: As respondents become more liberal, they are more likely to view the environment as a priority 
 
-# OLS regression with multiple independent variables 
-ols2 <- lm(environment ~ ideology+teaparty+age)
-summary(ols2)
-
-```
+##### OLS regression with multiple independent variables 
+`r ols2 <- lm(environment ~ ideology+teaparty+age)
+summary(ols2)`
 
