@@ -89,7 +89,7 @@ To download RStudio go [here](http://www.rstudio.com/products/rstudio/download/)
 `cor(environment,ideology)`
 
 ##### t-test of Pearson's R 
-`r cor.test(environment,ideology)`
+`cor.test(environment,ideology)`
 
 ### Simple regression 
 
@@ -97,6 +97,7 @@ To download RStudio go [here](http://www.rstudio.com/products/rstudio/download/)
 
 ##### OLS regression with one independent variable 
 `ols1 <- lm(environment ~ ideology)`
+
 `summary(ols1)`
 
 ### Multiple regression 
@@ -105,5 +106,6 @@ To download RStudio go [here](http://www.rstudio.com/products/rstudio/download/)
 
 ##### OLS regression with multiple independent variables 
 `r ols2 <- lm(environment ~ ideology+teaparty+age)`
+
 `summary(ols2)`
 
