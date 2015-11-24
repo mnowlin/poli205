@@ -45,6 +45,7 @@ To download RStudio go [here](http://www.rstudio.com/products/rstudio/download/)
 
 
 ##### set your working directory 
+
 ##### RStudio: Session -> Set Working Directory -> Choose Directory 
 
 ##### load data:
