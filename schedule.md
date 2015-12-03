@@ -134,7 +134,7 @@ __KW__: Kellstedt, Paul M. and Guy D. Whitten. 2013. _The Fundamentals of Politi
 
 * __FINAL EXAM__
     * Section 01 Thursday December 10th 12pm to 3pm
-    * Section 02 Tuesday December 14th 12pm to 3pm
+    * Section 02 Tuesday December 15th 12pm to 3pm
 
 --- 
 
